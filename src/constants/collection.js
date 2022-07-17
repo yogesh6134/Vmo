@@ -1,0 +1,17 @@
+export const CONTACTS = "contacts";
+export const GROUP_CHAT_REQUESTS = "groupChatRequests";
+export const GROUP_CHAT_REQUESTS_UPDATED = "groupChatRequestsUpdated";
+export const USERS = "users";
+export const USER_PUBLIC = "public";
+export const USER_PRIVATE = "private";
+export const PROFILE = "Profile";
+export const REQUEST_SENT = "requestsSent";
+export const REQUEST_RECEIVED = "requestsReceived";
+export const SETTINGS = "settings";
+export const ACTIVITIES = "activities";
+export const GROUP_CHAT_REF = "Chats";
+export const REPORTS = "reports";
+export const FRIENDS = "friends";
+export const ONE_ON_ONE = "1on1Chats";
+export const GROUP_CHATS = "groupChats";
+export const GROUPS = "groups";
